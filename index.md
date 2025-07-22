@@ -2,7 +2,7 @@
 layout: default
 title: Danny Xu | Golang backend/cloud architecture engineer
 ---
-[English](index.md)
+[中文](index.zh.md)
 # 👋 Hi, I'm Danny Xu
 
 Golang backend engineer/cloud architect, 9 years of experience, passionate about high concurrency, microservices and cloud native architecture.
