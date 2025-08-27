@@ -19,6 +19,14 @@ Seasoned Software Engineer with 10+ years of experience specializing in building
 
 ## PROFESSIONAL EXPERIENCE
 
+### Planet Edge Ltd - Go Backend Engineer
+📍 Perth | 🗓 October 2024 – Now
+- Responsible for designing and implementing an AI-powered automated task flow platform for social media operations, supporting an end-to-end workflow from content generation → video rendering → automated publishing.
+- Developed core services in Golang, providing task submission and querying via REST/gRPC APIs. All tasks were asynchronously designed to avoid persistent connection blocking.
+- Built a lightweight task orchestration engine (Temporal, a Golang state machine + Redis queue) to implement parallel task scheduling, state tracking, and idempotent retries. It supports workers for copywriting generation, competitive product analysis, video rendering, and social media publishing.
+- The data layer uses Postgres + Redis + S3: Postgres manages user and task metadata, Redis is used for queuing and caching, and S3 stores generated media files. - Deployed the service on AWS Fargate, combining RDS (Postgres), ElastiCache (Redis), and S3 to reduce operational complexity; monitored task success rates, queue lengths, and failed retries using CloudWatch and Prometheus.
+- Successfully supported a small-scale, real-world user scenario, implementing a closed-loop process: automatically generating tutorial content → rendering a short video → publishing to the target social media account, demonstrating the platform's feasibility.
+
 ### Backend Software Engineer
 **Didi Infinite Technology Development Co. LTD** | Beijing, China | Dec 2020 - Feb 2023
 
