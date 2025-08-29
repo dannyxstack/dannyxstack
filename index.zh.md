@@ -14,9 +14,6 @@ Golang 后端工程师 / 云架构师，9年经验，热衷于高并发、微服
 
 ## 🔧 项目展示
 
-### 🛒 点餐购物车系统 
-[theBridge](https://github.com/dannyxstack/theBridge) - 基于golang,websocket,openresty,confd的点餐购物车系统。
-
 ### 💻 DevOps CI/CD实践
 [rancher-dev-demo](https://github.com/dannyxstack/rancher-dev-demo) - 基于Docker/Rancher的 DevOps CI/CD实践. 
 
@@ -26,6 +23,9 @@ Golang 后端工程师 / 云架构师，9年经验，热衷于高并发、微服
 ### 🤖 ollama-chat-vue
 [ollama-chat-vue](https://github.com/dannyxstack/ollama-chat-vue) - 基于vue的ollama聊天页面。支持本地ollama。
 
-
-## 📄 Flexdrive
+### 📄 Flexdrive
 [flexdrive](https://github.com/uxff/flexdrive) - 一个分布式云盘系统。后端采用golang的gin框架，前端使用Bootstrap，集群通信使用gRPC协议。
+
+### 🛒 点餐购物车系统 
+[theBridge](https://github.com/dannyxstack/theBridge) - 基于golang,websocket,openresty,confd的点餐购物车系统。
+
