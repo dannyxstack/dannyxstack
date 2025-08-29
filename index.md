@@ -14,9 +14,6 @@ Golang backend engineer/cloud architect, 9 years of experience, passionate about
 
 ## 🔧 Project display
 
-### 🛒 Ordering shopping cart system
-[theBridge](https://github.com/dannyxstack/theBridge) - Ordering shopping cart system based on golang, websocket, openresty, confd.
-
 ### 💻 DevOps CI/CD practice
 [rancher-dev-demo](https://github.com/dannyxstack/rancher-dev-demo) - DevOps CI/CD practice based on Docker/Rancher.
 
@@ -26,5 +23,10 @@ Golang backend engineer/cloud architect, 9 years of experience, passionate about
 ### 🤖 ollama-chat-vue
 [ollama-chat-vue](https://github.com/dannyxstack/ollama-chat-vue) - ollama chat page based on vue. Supports local ollama.
 
-## 📄 Flexdrive
+### 📄 Flexdrive
 [flexdrive](https://github.com/uxff/flexdrive) - A distributed cloud disk system. The backend uses golang's gin framework, the frontend uses Bootstrap, and the cluster communication uses the gRPC protocol.
+
+### 🛒 Ordering shopping cart system
+[theBridge](https://github.com/dannyxstack/theBridge) - Ordering shopping cart system based on golang, websocket, openresty, confd.
+
+
